@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "Which is National Animal of the India",
+      "choices": [
+        "Elephant",
+        "Cow",
+        "tiger",
+        "Ox",
+        "None"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is National Bird of the India",
+      "choices": [
+        "Eagle",
+        "Peacock",
+        "Hen",
+        "Ostriches",
+        "None"
+      ],
+      "answer": 1
+    }
+  ]
+}
